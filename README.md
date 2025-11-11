@@ -5,7 +5,7 @@ This is the game I made for my Python Essentials 1 certification from Cisco Netw
 License and Patents
 The program does not contain any patents -- I say this to simplify the process of distribution.
 
-
+------------------------------------------------------------------------------------------------
 
 Copyright (C) 2025  Thomas K (Jagasr)
 
